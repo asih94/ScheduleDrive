@@ -1,8 +1,8 @@
 import './App.css';
 import Login from './Login';
 import { BrowserRouter, Link, Route, Switch } from "react-router-dom";
-import Register from './Register';
-import DriveReq from './DriveReq.js';
+import Register from './Register'
+import DriveReq from './DriveReq.js'
 
 
 
